@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prabhjot Singh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhjot-s/)
-[![Email](https://img.shields.io/badge/Email-singhjot0020@gmail.com-red?logo=gmail&logoColor=white)](mailto:singhjot0020@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:singhjot0020@gmail.com)
 
 🚀 Software Engineer | Full-Stack Developer | DevOps Enthusiast  
 📍 Delhi, India  
