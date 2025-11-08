@@ -11,7 +11,7 @@
 
 ## 🧾 About Me
 
-I'm a proactive and detail-oriented **Software Engineer** with 2+ years of experience at **GreyOrange**, working on intelligent warehouse automation platforms. My expertise includes:
+I'm a proactive and detail-oriented **Software Engineer** with 3 years of experience at **GreyOrange**, working on intelligent warehouse automation platforms. My expertise includes:
 
 - Middleware and protocol design for **AGV communication (VDA5050)**
 - Real-time fleet dashboards built with **Vue.js + Django**
