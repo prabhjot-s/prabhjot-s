@@ -42,19 +42,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prabhjot-s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhjot-s&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhjot-s&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🎓 Education
 
 **B.E. Computer Science Engineering** — Chandigarh University (2018–2022)
